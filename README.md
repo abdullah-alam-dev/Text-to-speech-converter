@@ -21,11 +21,7 @@ A responsive and interactive web application that converts written text into nat
 5. Click **Listen** to hear the text spoken aloud.
 
 ## Demo
-You can host the project live using GitHub Pages:
 [Live Demo Link](https://<YOUR-GITHUB-USERNAME>.github.io/text-to-speech-converter/)
-
-## Screenshots
-![Screenshot of Text-to-Speech Converter](./text_to_speech_img/images/screenshot.png)
 
 ## Author
 **Abdullah Alam**  
