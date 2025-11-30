@@ -80,32 +80,6 @@ select {
   background-position-x: calc(100% - 20px);
 background-position-y: 20px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* Screens 688px and below */
 @media (max-width: 688px) {
   .hero h1 {
     font-size: 38px;
@@ -144,8 +118,6 @@ background-position-y: 20px;
     background-position-x: calc(100% - 15px);
   }
 }
-
-/* Screens 500px and below */
 @media (max-width: 500px) {
   .hero h1 {
     font-size: 32px;
@@ -172,8 +144,6 @@ background-position-y: 20px;
     background-position-x: calc(100% - 14px);
   }
 }
-
-/* Screens 400px and below */
 @media (max-width: 400px) {
   .hero h1 {
     font-size: 28px;
@@ -228,13 +198,13 @@ background-position-y: 20px;
   select {
     height: 34px;
     font-size: 0.85rem;
-    padding: 0 28px 0 6px; /* better spacing for text and arrow */
+    padding: 0 28px 0 6px; 
     background-size: 12px;
     background-position-x: calc(100% - 12px);
 
-    white-space: nowrap;       /* prevent text wrapping */
-    overflow: hidden;          /* hide overflowing text */
-    text-overflow: ellipsis;   /* show "..." for overflow */
+    white-space: nowrap;       
+    overflow: hidden;         
+    text-overflow: ellipsis;  
   }
 }
 
@@ -263,7 +233,7 @@ background-position-y: 20px;
   select {
     height: 32px;
     font-size: 0.8rem;
-    padding: 0 26px 0 5px; /* adjust space for arrow */
+    padding: 0 26px 0 5px; 
     background-size: 10px;
     background-position-x: calc(100% - 10px);
 
